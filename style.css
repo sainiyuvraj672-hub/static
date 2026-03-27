@@ -1,0 +1,59 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #0f172a;
+    color: white;
+    text-align: center;
+}
+
+header {
+    padding: 2rem;
+    background: #1e293b;
+}
+
+main {
+    padding: 1rem;
+}
+
+.card {
+    margin: 2rem auto;
+    padding: 1.5rem;
+    background: #334155;
+    width: 80%;
+    max-width: 500px;
+    border-radius: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    border: none;
+    background: #22c55e;
+    color: black;
+    font-weight: bold;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #16a34a;
+}
+
+.testimonial {
+    margin-top: 1rem;
+    padding: 1rem;
+    background: #1e293b;
+    border-radius: 8px;
+    font-style: italic;
+}
+
+.testimonial h4 {
+    margin-top: 0.5rem;
+    font-style: normal;
+    color: #22c55e;
+}
+
+footer {
+    margin-top: 2rem;
+    padding: 1rem;
+    background: #1e293b;
+}
